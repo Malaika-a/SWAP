@@ -6,4 +6,11 @@
     </style>
 
     <style name="Theme.SWAP" parent="Base.Theme.SWAP" />
+    <style name="BottomRoundedCard">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSizeTopLeft">0dp</item>
+        <item name="cornerSizeTopRight">0dp</item>
+        <item name="cornerSizeBottomLeft">36dp</item>
+        <item name="cornerSizeBottomRight">36dp</item>
+    </style>
 </resources>
