@@ -3,6 +3,7 @@
     <array name="preloaded_fonts" translatable="false">
         <item>@font/</item>
         <item>@font/beth_ellen</item>
+        <item>@font/bungee</item>
         <item>@font/poppins_medium</item>
         <item>@font/revalia</item>
         <item>@font/uncial_antiqua</item>
